@@ -1,5 +1,5 @@
 # 1-semestrovka
-Full information about bucket and radix sort
+Full information about bucket sort
 ```
 1) Сама сортировка с описанием
 2) Тесты и сгенерированные файлы
